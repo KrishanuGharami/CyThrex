@@ -32,3 +32,22 @@ Create a .env.local file in the root directory and add the necessary environment
 npm run dev
 ```
 Visit http://localhost:3000 in your browser to view the application.
+
+## 🧪 Testing
+For end-to-end testing, you can integrate Cypress with your Next.js application:
+1. Install Cypress:
+```bash
+npm install -D cypress
+```
+2. Add Cypress script to package.json:
+```json
+"scripts": {
+  "cypress:open": "cypress open",
+  "cypress:run": "cypress run"
+}
+```
+3. Open Cypress:
+```bash
+npm run cypress:open
+```
+This will launch the Cypress Test Runner, allowing you to write and execute tests for your application.
