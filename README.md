@@ -31,3 +31,4 @@ Create a .env.local file in the root directory and add the necessary environment
 ```bash
 npm run dev
 ```
+Visit http://localhost:3000 in your browser to view the application.
