@@ -57,6 +57,7 @@ class CustomDocument extends Document {
             rel="stylesheet"
             href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
           ></link>
+          <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/6783/6783360.png"/>
           <noscript
             dangerouslySetInnerHTML={{
               __html:
