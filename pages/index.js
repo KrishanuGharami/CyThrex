@@ -19,7 +19,7 @@ const Home = (props) => {
     <>
       <div className="home-container">
         <Head>
-          <title>Spotless Hungry Crocodile</title>
+          <title>CyThrex</title>
         </Head>
         <Navbar></Navbar>
         <Hero></Hero>
@@ -48,3 +48,4 @@ const Home = (props) => {
 }
 
 export default Home
+
