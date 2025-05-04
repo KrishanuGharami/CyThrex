@@ -20,4 +20,10 @@ Deployment: Vercel
 git clone https://github.com/yourusername/cy-threx.git
 cd cy-threx
 ```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Set up environment variables:
+Create a .env.local file in the root directory and add the necessary environment variables.
 
