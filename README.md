@@ -9,5 +9,8 @@ Pricing Plans: Offers various subscription plans to cater to different organizat
 
 ## ⚙️ Technologies Used
 Frontend: Next.js, React, Tailwind CSS
+
 Authentication: NextAuth.js
+
 Deployment: Vercel
+
