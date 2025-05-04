@@ -6,3 +6,8 @@ Real-Time Threat Detection: Utilizes machine learning models to identify and res
 User Authentication: Secure login and registration system to manage user access.
 Responsive Design: Optimized for both desktop and mobile devices.
 Pricing Plans: Offers various subscription plans to cater to different organizational needs.
+
+## ⚙️ Technologies Used
+Frontend: Next.js, React, Tailwind CSS
+Authentication: NextAuth.js
+Deployment: Vercel
