@@ -50,4 +50,4 @@ npm install -D cypress
 ```bash
 npm run cypress:open
 ```
-This will launch the Cypress Test Runner, allowing you to write and execute tests for your application.
+This will launch the Cypress Test Runner, allowing you to write and execute tests for your application..
